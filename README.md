@@ -21,7 +21,7 @@ Para comenzar con GuitarLA en tu máquina local, sigue estos pasos:
 - **Clona el Repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/guitarla.git
+   git clone https://github.com/jgarteag/guitar-la.git
    cd guitarla
 
 - **Instala dependencias**
